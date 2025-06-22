@@ -1,4 +1,4 @@
-# 🧠 Blog Recommendation Engine
+# 🧠 Content Recommendation Engine for Blogs
 
 An AI-powered blog recommendation platform with role-based user access. Readers get personalized article suggestions based on their reading behavior and interests. Creators can write, manage, and track engagement on their posts.
 
