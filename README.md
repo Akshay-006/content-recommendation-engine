@@ -74,13 +74,8 @@ Topic Extraction from text using frequency analysis
 
 Sentiment Analysis using keyword scoring
 
-**📷 Screenshots**
 
-![image](https://github.com/user-attachments/assets/fe057ef3-da08-4b29-a995-7a2c1873d059)
-![image](https://github.com/user-attachments/assets/3d0482fe-371c-4051-9d99-0d3c553550aa)
-![image](https://github.com/user-attachments/assets/ea351de6-42f3-4c70-973c-15fb90d8358f)
-![image](https://github.com/user-attachments/assets/f0f0186d-4685-4144-bcda-065b7f896794)
-![image](https://github.com/user-attachments/assets/ceaaa90e-fd74-40ce-89c8-12763b967905)
+
 
 **📜 License**
 MIT License © 2025 Akshay Ramanathan
